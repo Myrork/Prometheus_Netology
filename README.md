@@ -11,7 +11,7 @@
 Требования к результату
 Прикрепите к файлу README.md скриншот systemctl status prometheus, где будет написано: prometheus.service — Prometheus Service Netology Lesson 9.4 — [Ваши ФИО]
 
-![alt text](https://github.com/Myrork/Prometheus_Netology/blob/main/prop/1.png)
+![alt text](https://github.com/Myrork/Prometheus_Netology/blob/main/prom/1.png)
 
 ## Задание 2
 ### Установите Node Exporter.
@@ -24,6 +24,6 @@
 Требования к результату
 Прикрепите к файлу README.md скриншот systemctl status node-exporter, где будет написано: node-exporter.service — Node Exporter Netology Lesson 9.4 — [Ваши ФИО]
 
-![alt text](https://github.com/Myrork/Prometheus_Netology/blob/main/prop/2.png)
+![alt text](https://github.com/Myrork/Prometheus_Netology/blob/main/prom/2.png)
 
-![alt text](https://github.com/Myrork/Prometheus_Netology/blob/main/prop/3.png)
+![alt text](https://github.com/Myrork/Prometheus_Netology/blob/main/prom/3.png)
